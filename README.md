@@ -95,4 +95,4 @@ Feel free to fork the repository and submit pull requests for improvements or bu
 This project is licensed under the MIT License.
 
 ## Author
-Your Name - [Your GitHub](https://github.com/ncrassassin)
+ncrassassin - [ncrassassin](https://github.com/ncrassassin)
