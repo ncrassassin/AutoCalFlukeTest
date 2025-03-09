@@ -1,3 +1,4 @@
 pyvisa
-PyQt5
 pyvisa-py
+pandas
+openpyxl

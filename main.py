@@ -1,13 +1,7 @@
-import sys
-
-from PyQt5.QtWidgets import QApplication
-from views.main_window import TestApp
-
-def main():
-    app = QApplication(sys.argv)
-    window = TestApp()
-    window.show()
-    sys.exit(app.exec_())
+import tkinter as tk
+from views.main_view import MainView
 
 if __name__ == "__main__":
-    main()
+    root = tk.Tk()
+    app = MainView(root)
+    root.mainloop()
